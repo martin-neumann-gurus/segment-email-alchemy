@@ -1,6 +1,4 @@
-
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle\Model;
 
 use Doctrine\ORM\EntityManager;

@@ -1,6 +1,4 @@
-
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
@@ -182,4 +180,3 @@ class SegmentEmail extends CommonEntity
         return $this;
     }
 }
-?>

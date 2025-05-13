@@ -1,6 +1,4 @@
-
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle\Form\Type;
 
 use Doctrine\ORM\EntityManager;
@@ -114,4 +112,3 @@ class SegmentEmailType extends AbstractType
         return 'segmentemail';
     }
 }
-?>

@@ -1,6 +1,5 @@
 
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle;
 
 use Mautic\PluginBundle\Bundle\PluginBundleBase;
@@ -11,4 +10,3 @@ use Mautic\PluginBundle\Bundle\PluginBundleBase;
 class SegmentEmailBundle extends PluginBundleBase
 {
 }
-?>

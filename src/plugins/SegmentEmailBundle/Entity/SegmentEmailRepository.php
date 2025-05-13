@@ -1,6 +1,5 @@
 
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle\Entity;
 
 use Doctrine\ORM\EntityRepository;
@@ -22,4 +21,3 @@ class SegmentEmailRepository extends EntityRepository
         return $this->findOneBy(['segmentId' => $segmentId]);
     }
 }
-?>

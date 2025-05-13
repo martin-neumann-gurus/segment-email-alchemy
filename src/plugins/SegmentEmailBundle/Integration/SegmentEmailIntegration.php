@@ -1,6 +1,5 @@
 
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle\Integration;
 
 use Mautic\PluginBundle\Integration\AbstractIntegration;
@@ -42,4 +41,3 @@ class SegmentEmailIntegration extends AbstractIntegration
         return [];
     }
 }
-?>

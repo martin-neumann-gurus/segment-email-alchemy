@@ -1,4 +1,3 @@
-
 <?php
 
 namespace MauticPlugin\SegmentEmailBundle\Controller;
@@ -78,4 +77,3 @@ class SegmentEmailController extends FormController
         ]);
     }
 }
-?>

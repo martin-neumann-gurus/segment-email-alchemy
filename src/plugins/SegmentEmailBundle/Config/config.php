@@ -1,6 +1,5 @@
 
 <?php
-
 return [
     'name' => 'Segment Email Settings',
     'description' => 'Customize email settings per segment',
@@ -68,4 +67,3 @@ return [
         ],
     ],
 ];
-?>

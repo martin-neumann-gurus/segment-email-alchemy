@@ -1,6 +1,5 @@
 
 <?php
-
 namespace MauticPlugin\SegmentEmailBundle\Helper;
 
 use Doctrine\ORM\EntityManager;
@@ -38,4 +37,3 @@ class TokenHelper
         return $this->entityManager->getRepository(SegmentEmail::class)->findBySegmentId($segmentId);
     }
 }
-?>

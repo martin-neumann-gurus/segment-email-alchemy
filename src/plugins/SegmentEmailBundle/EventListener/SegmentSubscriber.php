@@ -1,4 +1,3 @@
-
 <?php
 
 namespace MauticPlugin\SegmentEmailBundle\EventListener;
@@ -90,4 +89,3 @@ class SegmentSubscriber implements EventSubscriberInterface
         );
     }
 }
-?>
