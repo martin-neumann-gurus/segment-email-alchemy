@@ -1,5 +1,5 @@
-<?php
 
+<?php
 namespace MauticPlugin\SegmentEmailBundle\Controller;
 
 use Mautic\CoreBundle\Controller\FormController;

@@ -1,3 +1,4 @@
+
 <?php
 namespace MauticPlugin\SegmentEmailBundle\Model;
 
@@ -104,4 +105,3 @@ class SegmentEmailModel extends FormModel
         parent::saveEntity($entity);
     }
 }
-?>

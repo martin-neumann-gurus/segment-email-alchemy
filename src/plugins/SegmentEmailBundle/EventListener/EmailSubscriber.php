@@ -1,5 +1,5 @@
-<?php
 
+<?php
 namespace MauticPlugin\SegmentEmailBundle\EventListener;
 
 use Doctrine\ORM\EntityManager;
