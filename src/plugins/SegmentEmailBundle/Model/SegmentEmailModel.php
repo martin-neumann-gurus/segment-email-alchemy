@@ -16,7 +16,7 @@ class SegmentEmailModel extends FormModel
     /**
      * @var EntityManager
      */
-    private $em;
+    protected $em;
 
     /**
      * SegmentEmailModel constructor.
